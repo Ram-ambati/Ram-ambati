@@ -1,0 +1,151 @@
+<div align="center">
+
+# 👋 Hey, I'm **Ram-Ambati**  
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=11F700&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Backend+Developer;AI+Explorer;Full-Stack+Enthusiast;Problem+Solver;Always+Learning+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+---
+
+### 📈 GitHub Stats & Performance
+
+<img src="https://github-readme-stats.vercel.app/api?username=Ram-ambati&theme=radical&show_icons=true&hide_border=false" height="160px"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ram-ambati&theme=radical&hide_border=false" height="160px"/>
+
+### 🔍 Most Used Languages
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ram-ambati&layout=compact&theme=radical&hide_border=false"/>
+
+### 🐍 Watch Me Code
+
+![snake gif](https://github.com/Ram-ambati/Ram-ambati/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+### 📍 Location: Hyderabad, Telangana | 🕒 Timezone: 18:00 IST (UTC +05:30)
+
+### 📧 Email: **[ambatiramakotareddy@gmail.com](mailto:ambatiramakotareddy@gmail.com)**
+
+</div>
+
+---
+
+## 🎯 What Sets Me Apart
+
+✅ **Deep Learner** - I understand concepts from first principles  
+✅ **System Thinker** - Design with scalability in mind  
+✅ **Problem Solver** - Strong DSA & algorithmic foundation  
+✅ **AI Explorer** - Fascinated by ML/DL applications  
+✅ **Clean Code Advocate** - Readability is non-negotiable  
+✅ **Open to Learning** - Always evolving, never complacent  
+
+---
+
+## 🚀 About Me
+
+I'm a **curious developer** who doesn't just learn — I **understand from the roots**. I love building systems, exploring AI, and crafting clean, efficient software that makes an impact.
+
+💡 **Philosophy:** Code should be read more than it's written. Write for humans, compile for machines.
+
+---
+
+## 🧠 Currently Mastering
+
+* 🤖 Machine Learning & Deep Learning (CNNs, RNNs, Transformers)
+* 🏗️ System Design & Distributed Systems
+* 📊 Advanced Data Structures & Algorithms
+* ⚡ Backend Optimization & Performance Tuning
+* 🔐 Cybersecurity Fundamentals
+* 🌐 Scalable Web Architecture
+
+---
+
+## 🛠 Tech Arsenal
+
+### 🧑‍💻 Programming Languages
+`Java` `Python` `JavaScript` `C` `HTML` `CSS`
+
+### 🧰 Tools & Technologies
+`Git` `GitHub` `VS Code` `Docker` `API Design` `REST` `SQL`
+
+### 🏗️ Frameworks & Libraries
+`Spring Boot` `Django` `React` `NumPy` `Pandas` `Scikit-Learn`
+
+---
+
+## 💪 Core Competencies
+
+| Category | Skills |
+|----------|--------|
+| **Backend Development** | Spring Boot, RESTful APIs, Microservices, Database Design |
+| **Frontend** | JavaScript, HTML/CSS, Responsive Design |
+| **Data Science** | Machine Learning, Data Analysis, Statistical Modeling |
+| **Problem Solving** | LeetCode, Competitive Programming, Algorithm Optimization |
+| **Tools & DevOps** | Git, GitHub, Version Control, Code Documentation |
+
+---
+
+## 🧩 Problem Solving Journey
+
+* 🌱 Grinding LeetCode daily - building strong DSA foundations
+* 🔥 Competitive programming mindset with optimized solutions
+* 🎯 Focus on time & space complexity optimization
+* 📈 Progressive difficulty increase - medium to hard level problems
+
+---
+
+## 🏆 Notable Achievements
+
+🌟 **Building scalable solutions** from concept to production  
+🌟 **Mastering multiple tech stacks** for versatility  
+🌟 **Contributing to open-source** and community  
+🌟 **Consistent learning** and skill development  
+🌟 **Strong problem-solving** acumen  
+
+---
+
+## 🏔 Vision & Goals
+
+I want to:
+* **Build systems** that scale to millions of users
+* **Solve real-world problems** with elegant code
+* **Work in product-based environments** driving innovation
+* **Create invisible excellence** - systems so well-designed, users don't notice the engineering
+* **Contribute to AI revolution** with meaningful ML applications
+* **Mentor others** and grow the developer community
+
+---
+
+## ⚡ Philosophy
+
+> "The best code is code that works, reads well, and can be maintained by someone (including future you) who didn't write it."
+
+* I learn by **breaking things and fixing them**
+* I believe in **understanding the "why" before the "how"**
+* I appreciate **clean UI, minimal design, and meaningful automation**
+* **Simplicity** is the ultimate sophistication
+
+---
+
+## 🌐 Connect With Me
+
+📧 **Email:** [ambatiramakotareddy@gmail.com](mailto:ambatiramakotareddy@gmail.com)  
+🔗 **GitHub:** [github.com/Ram-ambati](https://github.com/Ram-ambati)  
+💼 **LinkedIn:** [Connect with me](https://linkedin.com/in/Ram-ambati)
+
+---
+
+<div align="center">
+
+### 🎯 Visitor Counter
+
+![Visitor Count](https://komarev.com/ghpvc/?username=Ram-ambati&color=blue&style=for-the-badge)
+
+---
+
+### ⭐ Did something inspire you?
+
+If you like what you see here, **consider giving it a star** ⭐ — it means the world!
+
+> ✨ *Thanks for stopping by. Let's build something extraordinary together.* ✨
+
+</div>
