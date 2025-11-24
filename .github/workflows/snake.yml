@@ -1,0 +1,26 @@
+name: Generate Snake Contribution Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Clone Repo
+        uses: actions/checkout@v4
+
+      - name: Generate Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: Ram-ambati
+          outputs: dist/github-contribution-grid-snake.svg
+
+      - name: Deploy Snake to Output Branch
+        uses: JamesIves/github-pages-deploy-action@v4.3.3
+        with:
+          branch: output
+          folder: dist
