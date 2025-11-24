@@ -15,10 +15,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ram-ambati&layout=compact&theme=radical&hide_border=false"/>
 
-### 🐍 Watch Me Code
-
-![snake gif](https://github.com/Ram-ambati/Ram-ambati/blob/output/dist/github-contribution-grid-snake.svg)
-
 ---
 
 ### 📍 Location: Hyderabad, Telangana | 🕒 Timezone: 18:00 IST (UTC +05:30)
