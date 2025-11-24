@@ -21,6 +21,19 @@
 
 ### 📧 Email: **[ambatiramakotareddy@gmail.com](mailto:ambatiramakotareddy@gmail.com)**
 
+### 🎖️ Profile Badges & Achievements
+
+![Profile Views](https://komarev.com/ghpvc/?username=Ram-ambati&color=brightgreen&style=flat-square)
+![GitHub Followers](https://img.shields.io/github/followers/Ram-ambati?style=flat-square&color=blue)
+![GitHub User Status](https://img.shields.io/badge/Status-Active-success?style=flat-square)
+![YOLO](https://img.shields.io/badge/Motto-YOLO%20%F0%9F%9A%80-orange?style=flat-square)
+![Code Quality](https://img.shields.io/badge/Code%20Quality-A%2B-brightgreen?style=flat-square)
+![Learning Status](https://img.shields.io/badge/Learning-Never%20Stop-blueviolet?style=flat-square)
+![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-green?style=flat-square)
+![Problem Solving](https://img.shields.io/badge/Problem%20Solving-Expert-FF6B6B?style=flat-square)
+![AI Explorer](https://img.shields.io/badge/AI%20Explorer-ML%20Enthusiast-purple?style=flat-square)
+![Backend Developer](https://img.shields.io/badge/Backend%20Developer-Java%20%26%20Python-darkblue?style=flat-square)
+
 </div>
 
 ---
