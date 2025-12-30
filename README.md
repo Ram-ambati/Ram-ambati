@@ -37,7 +37,13 @@
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
+## 🚀 About Me
 
+I'm a **curious developer** who doesn't just learn — I **understand from the roots**. I love building systems, exploring AI, and crafting clean, efficient software that makes an impact.
+
+💡 **Philosophy:** Code should be read more than it's written. Write for humans, compile for machines.
+
+---
 ## 🎯 What Sets Me Apart
 
 ✅ **Deep Learner** - I understand concepts from first principles  
@@ -46,14 +52,6 @@
 ✅ **AI Explorer** - Fascinated by ML/DL applications  
 ✅ **Clean Code Advocate** - Readability is non-negotiable  
 ✅ **Open to Learning** - Always evolving, never complacent  
-
----
-
-## 🚀 About Me
-
-I'm a **curious developer** who doesn't just learn — I **understand from the roots**. I love building systems, exploring AI, and crafting clean, efficient software that makes an impact.
-
-💡 **Philosophy:** Code should be read more than it's written. Write for humans, compile for machines.
 
 ---
 
