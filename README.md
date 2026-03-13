@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm **Ram-Ambati**  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=11F700&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Backend+Developer;AI+Explorer;Full-Stack+Enthusiast;Problem+Solver;Always+Learning+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=11F700&center=true&vCenter=true&width=600&lines=Computer+Science+Student;AI+Explorer;Always+Learning+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <img src="https://github-readme-stats.vercel.app/api?username=Ram-ambati&theme=radical&show_icons=true&hide_border=false" height="160px"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ram-Ambati&theme=radical&hide_border=false" height="160px"/>
@@ -33,25 +33,11 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 ## 🚀 About Me
 
 I'm a **curious developer** who doesn't just learn — I **understand from the roots**. I love building systems, exploring AI, and crafting clean, efficient software that makes an impact.
-
-💡 **Philosophy:** Code should be read more than it's written. Write for humans, compile for machines.
-
----
-## 🎯 What Sets Me Apart
-
-✅ **Deep Learner** - I understand concepts from first principles  
-✅ **System Thinker** - Design with scalability in mind  
-✅ **Problem Solver** - Strong DSA & algorithmic foundation  
-✅ **AI Explorer** - Fascinated by ML/DL applications  
-✅ **Clean Code Advocate** - Readability is non-negotiable  
-✅ **Open to Learning** - Always evolving, never complacent  
 
 ---
 
@@ -61,33 +47,7 @@ I'm a **curious developer** who doesn't just learn — I **understand from the r
 * 🏗️ System Design & Distributed Systems
 * 📊 Advanced Data Structures & Algorithms
 * ⚡ Backend Optimization & Performance Tuning
-* 🔐 Cybersecurity Fundamentals
 * 🌐 Scalable Web Architecture
-
----
-
-## 🛠 Tech Arsenal
-
-### 🧑‍💻 Programming Languages
-`Java` `Python` `C` `HTML` `CSS` `JavaScript`
-
-### 🧰 Tools & Technologies
-`Git` `GitHub` `VS Code` `Docker` `API Design` `REST` `SQL`
-
-### 🏗️ Frameworks & Libraries
- `NumPy` `Pandas` `Matplotlib` `Seaborn` `Scikit-Learn`
-
-
-
-## 💪 Core Competencies
-
-| Category | Skills |
-|----------|--------|
-| **Backend Development** | Spring Boot, RESTful APIs, Microservices, Database Design |
-| **Frontend** | JavaScript, HTML/CSS, Responsive Design |
-| **Data Science** | Machine Learning, Data Analysis, Statistical Modeling |
-| **Problem Solving** | LeetCode, Competitive Programming, Algorithm Optimization |
-| **Tools & DevOps** | Git, GitHub, Version Control, Code Documentation |
 
 ---
 
@@ -109,19 +69,6 @@ I'm a **curious developer** who doesn't just learn — I **understand from the r
 🌟 **Strong problem-solving** acumen  
 
 ---
-
-## 🏔 Vision & Goals
-
-I want to:
-* **Build systems** that scale to millions of users
-* **Solve real-world problems** with elegant code
-* **Work in product-based environments** driving innovation
-* **Create invisible excellence** - systems so well-designed, users don't notice the engineering
-* **Contribute to AI revolution** with meaningful ML applications
-* **Mentor others** and grow the developer community
-
----
-
 
 ## 🌐 Connect With Me
 
