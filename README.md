@@ -1,6 +1,8 @@
-<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=bfff00&height=180&section=header&text=Ram%20Ambati&fontSize=40&fontColor=000000&animation=fadeIn"/>
+</p>
 
-# 👋 Hey, I'm **Ram-Ambati**  
+<div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=11F700&center=true&vCenter=true&width=600&lines=Computer+Science+Student;AI+Explorer;Always+Learning+%F0%9F%9A%80)](https://git.io/typing-svg)
 
